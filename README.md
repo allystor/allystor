@@ -6,7 +6,7 @@
 
 # Connect with me
 
-<a href="https://www.linkedin.com/in/álvaro-joão-da-silva-veiga-4004a6208/">
+<a href="https://twitter.com/alvaroveigones">
 <img alling="center" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" widht="40" height="30"stwles+"max-widht=100%;">
   
 <a href="https://www.linkedin.com/in/álvaro-joão-da-silva-veiga-4004a6208/">
