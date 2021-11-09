@@ -20,5 +20,5 @@
  <img alt="html5" alling="center" widht="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
   ![Anuras GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvaro&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
