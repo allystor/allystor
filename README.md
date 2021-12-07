@@ -19,6 +19,6 @@
  <img alt="html5" alling="center" widht="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
  <img alt="html5" alling="center" widht="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
-  ![Anuras GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvaro&show_icons=true&theme=radical)
+  ![Anuras GitHub stats](https://github-readme-stats.vercel.app/api?username=allystor&show_icons=true&theme=radical)
 
 
