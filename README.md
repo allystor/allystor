@@ -22,4 +22,4 @@
   ![Anuras GitHub stats](https://github-readme-stats.vercel.app/api?username=allystor&show_icons=true&theme=radical)
 
 
-![Snake animation](https://github.com/allystor/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/allystor/allystor/blob/output/github-contribution-grid-snake.svg)
