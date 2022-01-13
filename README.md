@@ -22,3 +22,4 @@
   ![Anuras GitHub stats](https://github-readme-stats.vercel.app/api?username=allystor&show_icons=true&theme=radical)
 
 
+![Snake animation](allystor)
