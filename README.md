@@ -1,4 +1,4 @@
-# Hi There :wave:	
+# Hello There :wave:	
 # How am i? 🧐
 - I am brazilian 🇧🇷
 - Currently student of software engineering :computer:
