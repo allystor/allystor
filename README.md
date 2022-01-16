@@ -7,13 +7,13 @@
 # Connect with me
 
 <a href="https://twitter.com/alvaroveigones">
-<img alling="center" alt="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" widht="40" height="30"stwles+"max-widht=100%;">
+<img allign="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imjouska" height="30" width="40" / >
   
 <a href="https://www.linkedin.com/in/álvaro-joão-da-silva-veiga-4004a6208/">
 <img alling="center" alt="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" widht="40" height="30"styles:"max-widht=100%;">
   
  <a href="https://www.instagram.com/alvaro.veigones/">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" widht="40" height="30"styles:"max-widht=100%;">
+<img allign="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" widht="40" height="30"styles:"max-widht=100%;">
   
 # My skills
   
