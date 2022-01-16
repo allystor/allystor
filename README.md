@@ -13,7 +13,7 @@
 <img alling="center" alt="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" widht="40" height="30"styles:"max-widht=100%;">
   
  <a href="https://www.instagram.com/alvaro.veigones/">
- <img alling="center" alt="Instagram" src"file:///C:/Users/alvar/Downloads/instagram-svgrepo-com.svg" widht="40" height="30"styles:"max-widht=100%;">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" widht="40" height="30"styles:"max-widht=100%;">
   
 # My skills
   
