@@ -1,7 +1,7 @@
 # Hello There :wave:	
 # How am i? 🧐
 - I am brazilian 🇧🇷
-- Currently student of software engineering :computer:
+- Currently a student of software engineering :computer:
 - and focused on goals ↗️
 
 # Connect with me
