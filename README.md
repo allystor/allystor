@@ -27,6 +27,7 @@
  <img alling="center" widht="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  <img alling="center" widht="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
  <img alling="center" widht="40" height="30" style="color:#fff;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+   
 <div align="center">
   <a href="https://github.com/allystor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allystor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
