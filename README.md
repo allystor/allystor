@@ -3,6 +3,7 @@
 - I am brazilian
 - Currently a student of software engineering :computer:
 - and focused on goals ↗️
+- Full Stack Developer Intern | UVASS & DMS Logistics
 
 # Connect with me
 
