@@ -5,16 +5,6 @@
 - and focused on goals ↗️
 - Full Stack Developer Intern | UVASS & DMS Logistics
 
-# Connect with me
-
-<a href="https://twitter.com/alvaroveigones">
-<img allign="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imjouska" height="30" width="40" / >
-  
-<a href="https://www.linkedin.com/in/álvaro-joão-da-silva-veiga-4004a6208/">
-<img alling="center" alt="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" widht="40" height="30"styles:"max-widht=100%;">
-  
- <a href="https://www.instagram.com/alvaro.veigones/">
-<img allign="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" widht="40" height="30"styles:"max-widht=100%;">
   
 # My skills
   ##### Front-end
@@ -30,6 +20,18 @@
  <img alling="center" widht="40" height="30" style="color:#fff;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
  <img alling="center" widht="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
    
+# Connect with me
+
+<a href="https://twitter.com/alvaroveigones"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" aling="center"></a>
+
+<a href="https://www.instagram.com/alvaro.veigones/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" aling="center"></a>
+
+<a href="https://www.linkedin.com/in/%C3%A1lvaro-jo%C3%A3o-da-silva-veiga-4004a6208/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<a href = "mailto:alvarojoao17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+  
 <div align="center">
   <a href="https://github.com/allystor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allystor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
