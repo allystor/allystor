@@ -1,9 +1,8 @@
  Hello There :wave:	
 # How am i? 🧐
-- I am brazilian
+- I am brazilian :brazil:
 - Currently a student of software engineering :computer:
-- and focused on goals ↗️
-- Full Stack Developer Intern | UVASS & DMS Logistics
+- Full Stack Developer Intern | UVASS & DMS Logistics :bar_chart:
 
   
 # My skills
