@@ -17,6 +17,7 @@
    
   ##### back-end
 <div align="start">
+ <img alling="center" widht="40" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
  <img alling="center" widht="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  <img alling="center" widht="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
  <img alling="center" widht="40" height="30" style="color:#fff;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
